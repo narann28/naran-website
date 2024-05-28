@@ -1,7 +1,7 @@
 import React, { useRef } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
 import { TextureLoader, MeshStandardMaterial } from 'three';
-import earthImage from '../earth4.jpg'; 
+import earthImage from '../earth.jpg'; // Import the image file
 
 const EarthMesh = () => {
   const meshRef = useRef(null);
