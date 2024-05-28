@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/naran-website/static/css/main.5df71533.css",
-    "main.js": "/naran-website/static/js/main.feadb39b.js",
+    "main.js": "/naran-website/static/js/main.e0c33767.js",
     "static/js/453.97275ab2.chunk.js": "/naran-website/static/js/453.97275ab2.chunk.js",
     "static/media/naranimg.png": "/naran-website/static/media/naranimg.4b8642fde69327629174.png",
     "static/media/custom-bike.JPEG": "/naran-website/static/media/custom-bike.5b5d8a6dfddfa6552563.JPEG",
@@ -20,11 +20,11 @@
     "static/media/ucr1.jpg": "/naran-website/static/media/ucr1.a1b119c366dd32ed9a2e.jpg",
     "index.html": "/naran-website/index.html",
     "main.5df71533.css.map": "/naran-website/static/css/main.5df71533.css.map",
-    "main.feadb39b.js.map": "/naran-website/static/js/main.feadb39b.js.map",
+    "main.e0c33767.js.map": "/naran-website/static/js/main.e0c33767.js.map",
     "453.97275ab2.chunk.js.map": "/naran-website/static/js/453.97275ab2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5df71533.css",
-    "static/js/main.feadb39b.js"
+    "static/js/main.e0c33767.js"
   ]
 }
