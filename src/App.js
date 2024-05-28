@@ -19,13 +19,14 @@ function App() {
       const typed = new Typed(el.current, {
         strings: [
           'Software Developer',
-          'Coder',
-          '',
+          'UCR Student',
+          'Triathlete',
+          'Coder'
         ],
         loop: true,
-        typeSpeed: 40,
-        backSpeed: 40,
-        backDelay: 1000,
+        typeSpeed: 70,
+        backSpeed: 70,
+        backDelay: 800,
       });
 
       return () => {
